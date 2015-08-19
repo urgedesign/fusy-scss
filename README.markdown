@@ -14,7 +14,7 @@ Define your grid settings:
 ```scss
 $total-columns: 	12; 						// The number of columns in your grid
 $column-gutter:		0.125; 						// The size of a gutter in relation to a single column (e.g. 0.125 = 1/8th)
-$column-width:		80; 						// The width of a single column (px)
+$column-width:		80px; 						// The width of a single column (px)
 $container-width: 	1440px;						// Sets a max-width for the container (px)
 ```
 
