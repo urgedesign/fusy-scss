@@ -38,6 +38,20 @@ $include-xlarge: 	false;
 $include-xxlarge: 	false;
 ```
 
+Usage
+-----
+
+Once you've configured the grid and compiled the SCSS you can use [grid classes identical to Foundation](http://foundation.zurb.com/sites/docs/grid.html), eg.
+```
+<div class="row">
+    <div class="small-6 medium-5 large-2 columns">
+        ...
+    </div>
+    <div class="small-6 medium-7 large-10 columns">
+        ...
+    </div>
+</div>
+```
 
 Limitations
 -----------
